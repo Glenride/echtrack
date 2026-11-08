@@ -1,0 +1,4 @@
+# EchoTrack Audio Tools Requirements
+numpy>=1.24.0
+scipy>=1.10.0
+pydub>=0.25.1
